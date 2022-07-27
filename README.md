@@ -1,6 +1,6 @@
 # LOL(Lego Of Legend)
 - 소규모 LEGO 대행 및 중고 판매 사이트
-- 역할 - BackEnd Developer
+- 역할 - BackEnd
 
 ## 00. 프로젝트 개요
 
