@@ -13,7 +13,7 @@
 >[프로젝트 상세 설명](https://github.com/JinKim93/LOL_ShoppingMall) 참고
 <br></br>
 ### 2.[StudentManagement](https://github.com/JinKim93/StudentManagement)
->OOP특징과 JDK로 만든 프로젝트
+>OOP특징을 사용해 JDK로 만든 프로젝트
 >
 >개발 기간: 2022.06.01
 >
